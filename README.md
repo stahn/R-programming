@@ -1,7 +1,7 @@
 R-programming
 =============
 
-my R codes
+##my R codes
 
-repository is a part of Data Science Signature Track Coursera Course:
+This repository is a part of Data Science Signature Track Coursera Course:
 https://www.coursera.org/specialization/jhudatascience
